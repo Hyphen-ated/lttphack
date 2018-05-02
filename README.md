@@ -1,5 +1,11 @@
-See http://milde.no/lttp/ for info.
+This is a fork of v9 of the LTTP practice hack to make coordinates display
+in decimal again instead of hex, but still have all the other nice new
+features of v9. This is needed because many LTTP glitch tutorials made with
+older versions of the practice hack tell you to stand on specific decimal
+coordinates.
 
-Pull requests very much appreciated.
-
-I use a custom version of [Asar](https://github.com/AndreaOrru/Asar) forked [here](https://github.com/helgefmi/Asar) as an assembler. See the Makefile for more information.
+To use: download from https://github.com/Hyphen-ated/lttphack/releases
+then apply the appropriate IPS patch to a copy of LTTP 1.0j
+(google 3322effc)
+If you haven't worked with an IPS patch before, one popular tool is called
+"Lunar IPS"
